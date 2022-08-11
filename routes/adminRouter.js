@@ -11,4 +11,4 @@ router.get("/get_spam_posts", auth, adminCtrl.getSpamPosts);
 router.delete("/delete_spam_posts/:id", auth, adminCtrl.deleteSpamPost);
 
 
-module.exports = router
+module.exports = router;
