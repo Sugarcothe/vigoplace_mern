@@ -22,7 +22,7 @@ const Header = () => {
       <nav className="navbar navbar-expand-lg navbar-light bg-light justify-content-between">
         <div className="container-fluid">
           <Link to="/" className="logo" onClick={handleRefreshHome}>
-            <h1 className="navbar-brand text-uppercase p-0 m-0">Campus Connect</h1>
+            <h1 className="navbar-brand text-uppercase p-0 m-0">Vigoplace</h1>
           </Link>
 
           <Search />
