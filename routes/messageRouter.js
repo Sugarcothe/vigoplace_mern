@@ -9,4 +9,4 @@ router.get("/conversations", auth, messageCtrl.getConversations);
 router.get("/message/:id", auth, messageCtrl.getMessages);
 
 
-module.exports = router;
+module.exports = router
