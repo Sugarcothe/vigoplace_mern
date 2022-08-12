@@ -81,7 +81,7 @@ const Register = () => {
 
           <div className="mb-3">
             <label htmlFor="email" className="form-label">
-              Email address
+              Email Address
             </label>
             <div className="outer-shadow hover-in-shadow form-input-wrap">
               <input
